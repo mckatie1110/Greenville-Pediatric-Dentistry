@@ -1,0 +1,334 @@
+/* html5doctor.com Reset v1.6.1 - http://cssreset.com */
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}nav ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}ins{background-color:#ff9;color:#000;text-decoration:none}mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}del{text-decoration:line-through}abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}table{border-collapse:collapse;border-spacing:0}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}input,select{vertical-align:middle}
+
+site{
+  width:1100px;
+  height:1200px;
+}
+
+section{
+  margin:20px auto;
+  width:1100px;
+  height:1200px;
+}
+
+.site{
+  margin:20px auto;
+  width:1100px;
+  height:1400px;
+  padding:0px;
+  background:#D7DDF2;
+}
+
+body{
+ background:#D7DDF2; 
+}
+
+.bbybluesq{
+  background:#D7DDF2;
+}
+
+span{
+  margin-top:50px;
+  margin-bottom:20px;
+  color:#781017;
+  font-size:14pt;
+}
+
+h1{
+  font-family: Noteworthy;
+  font-size:32pt;
+  font-style:bold;
+  color:#C9043C;
+}
+
+h2{
+  font-family:Noteworthy;
+  font-size:24;
+  font-style:oblique;
+  color:#000000;
+  margin-left:15px;
+}
+
+p{
+  font-family:Georgia;
+  font-size:16pt;
+  color:#000;
+}
+
+ul{
+  font-family:Georgia;
+  font-size:16pt;
+  color:#000;
+  padding:5px 30px;
+  line-height:40px;
+}
+
+.brownbutt{
+  width:200px;
+  height:70px;
+  background:#AE6957;
+  margin-top:80px;
+  border-radius:15px;
+  border:#EEEED9 solid 6px;
+}
+
+
+.thebodytext{
+  font-family:"Helvetica Neue";
+  font-size:16pt;
+  color:#333333;
+  float:left;
+  margin-top:90px;
+}
+
+.navbar{
+  height:50px;
+  margin:10px 5px 10px 25px;
+}
+
+nav li{
+  font-family:Noteworthy;
+  font-style:oblique;
+  background:#AE6957;
+  outline:3px solid #EEEED9;
+  width:14%;
+  height:50px;
+  float:left;
+  text-align:center;
+  line-height:40px;
+  font-size:15pt;
+}
+
+nav a{
+  color:#000;
+  text-decoration:none;
+}
+
+nav a:hover{
+  color:#EEEED9;
+}
+
+
+.insurance{
+  background:#EEEED9;
+  height:1000px;
+  margin:5px 50px;
+  padding:15px;
+  position:relative;
+}
+
+h1{
+  color:#C9043C;
+  font-size:30pt;
+  padding:15px;
+}
+
+p{
+  color:#000;
+  padding:15px;
+  line-height:40px;
+}
+
+body{
+  font-size:18pt;
+  font-color:#000;
+}
+
+.printforms{
+  width:400px;
+  height:150px;
+  margin-right:50px;
+  padding:10px;
+  text-align:right;
+  color:#BBCBCB;
+  float:right;
+  position:relative;
+  z-index:100;
+  bottom:80px;
+  background:#AE6957;
+  margin-top:100px;
+  border-radius:15px;
+}
+
+.icon{
+  width:180px;
+  height:100px;
+  position:relative;
+  bottom:80px;
+  left:20px
+}
+
+.newpatients{
+  margin-right:30px;
+  text-align:right;
+  color:#BBCBCB;
+  padding:10px;
+  position:relative;
+  float:right;
+  bottom:80px;
+  width:400px;
+  height:150px;
+  background:#AE6957;
+  margin-top:100px;
+  border-radius:15px;
+}
+
+
+/**Our Staff**/
+
+.ourstaff{
+  background:#EEEED9;
+  height:1550px;
+  margin:5px 50px;
+  padding:15px;
+  position:relative;
+}
+.doctors{
+  background:#7C7C7C;
+  width:600px;
+  height:800px;
+  margin:0 60px;
+  padding:15px;
+  float:right;
+}
+
+.robin{
+  float:left;
+}
+
+.kristin{
+  float:right;
+}
+
+.officehours{
+  background:#252424;
+  width:375px;
+  height:220px;
+  margin:25px 62px 15px 50px;
+  padding:20px 35px 0px 30px;
+  text-align:left;
+  color:#BBCBCB;
+  font-size:16pt;
+}
+
+.direction{
+  background:#252424;
+  width:375px;
+  height:220px;
+  margin:25px 62px 15px 50px;
+  padding:20px 35px 0px 30px;
+  text-align:left;
+  color:#BBCBCB;
+  font-size:16pt;
+}
+
+.icon{
+  width:20px;
+  height:20px;
+  margin:0;
+  padding:20px;
+}
+
+.firsttime{
+  background:#252424;
+  width:400px;
+  height:80px;
+  margin:25px 50px;
+  padding:20px;
+  text-align:center;
+  color:#BBCBCB;
+}
+
+.appointment{
+  background:#252424;
+  width:400px;
+  height:80px;
+  margin:25px 50px;
+  padding:20px;
+  text-align:center;
+  color:#BBCBCB;
+}
+
+.googlemaps{
+  background:#252424;
+  width:175px;
+  height:100px;
+  margin:0 55px;
+  padding:5px;
+  text-align:center;
+  color:#BBCBCB;
+  float:left;
+}
+
+.facebook{
+  background:#252424;
+  width:175px;
+  height:100px;
+  padding:5px;
+  text-align:center;
+  color:#BBCBCB;
+  float:right;
+  position: absolute;
+}
+
+.officetour{
+  background:#252424;
+  width:175px;
+  height:100px;
+  margin:0 55px;
+  padding:5px;
+  text-align:center;
+  color:#BBCBCB;
+  float:left;
+}
+
+.contactus{
+  background:#252424;
+  width:175px;
+  height:100px;
+  padding:5px;
+  text-align:center;
+  color:#BBCBCB;
+  float:right;
+  position: absolute;
+}
+
+/**First Visit**/
+
+.visit{
+  background:#EEEED9;
+  height:1000px;
+  margin:5px 50px;
+  padding:15px;
+}
+
+/**General Treatment**/
+
+.generaltreatment{
+  background:#EEEED9;
+  height:950px;
+  margin:5px 50px;
+  padding:15px;
+  position:relative;
+}
+
+/**Office Poliicies**/
+
+.officepolicies{
+  background:#EEEED9;
+  height:1200px;
+  margin:5px 50px;
+  padding:15px;
+  position:relative;
+}
+
+/**Dental Health**/
+
+.dentalhealth{
+  background:#EEEED9;
+  height:1700px;
+  margin:5px 50px;
+  padding:15px;
+  position:relative;
+}
